@@ -1,0 +1,46 @@
+p{
+
+	font-family: "Georgia";
+	font-size: 16PX;
+	font-style: normal;
+	text-align: left;
+
+}
+
+body{
+
+	margin: 5%;
+	background-image: url("http://img.taopic.com/uploads/allimg/110923/10016-1109230Q31987.jpg");
+
+}
+
+pre{
+
+	text-align: left;
+	font-family: "Arial";
+	font-size: 16PX;
+	margin-left: 200PX;
+
+}
+
+table{
+
+	width: 100%;
+	text-align: center;
+
+}
+
+td{
+
+	width: 25%;
+	text-align: center;
+
+}
+
+h1,h2,h3,h4,h5,h6{
+
+	font-family: "Georgia";
+	text-align: center;
+	color: blue;
+
+}
