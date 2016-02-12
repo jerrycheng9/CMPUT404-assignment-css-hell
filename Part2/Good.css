@@ -1,0 +1,45 @@
+.sidebar{
+	float: left;
+	background-color: green;
+	height: 100%;
+	width: 20%;
+	text-align: center;
+	
+}
+
+.header{
+	font-family: "Arial";
+	font-weight: bold;
+	font-style: italic;
+}
+
+.header1{
+	color: black;
+	font-size: 20px;
+}
+
+.header2{
+	margin-left: 9cm;
+	color: blue;
+	font-size: 40px;
+}
+
+.header3{
+	margin-left: 12cm;
+	color: black;
+	font-size: 20px;
+}
+
+.header4{
+	margin-left: 15cm;
+	color: blue;
+	font-size: 40px;
+}
+
+.content{
+
+}
+
+.footer{
+
+}
