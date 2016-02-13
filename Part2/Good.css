@@ -1,10 +1,16 @@
+body{
+	margin-left: 5%;
+	margin-right: 5%;
+	background-image: url("BackGround.jpg");
+	background-size: cover;
+}
+
 .sidebar{
 	float: left;
-	background-color: green;
 	height: 100%;
-	width: 20%;
+	width: 30%;
 	text-align: center;
-	
+	background-color: darkorange;
 }
 
 .header{
@@ -15,31 +21,41 @@
 
 .header1{
 	color: black;
-	font-size: 20px;
+	font-size: 15px;
 }
 
 .header2{
-	margin-left: 9cm;
-	color: blue;
-	font-size: 40px;
+	margin-left: 12cm;
+	color: maroon;
+	font-size: 30px;
 }
 
 .header3{
-	margin-left: 12cm;
+	margin-left: 15cm;
 	color: black;
-	font-size: 20px;
+	font-size: 15px;
 }
 
 .header4{
-	margin-left: 15cm;
-	color: blue;
-	font-size: 40px;
+	margin-left: 18cm;
+	color: maroon;
+	font-size: 30px;
 }
 
 .content{
-
+	font-family: "Times New Roman";
+	font-size: 16px;
 }
 
 .footer{
+	float: right;
+}
 
+.title{
+	color: maroon;
+}
+
+.des{
+	margin-left: 2cm;
+	text-align: left;
 }
